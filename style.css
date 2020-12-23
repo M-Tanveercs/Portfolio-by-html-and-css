@@ -165,7 +165,7 @@ ul{
 }
 .work2 > .worktext{
     position: absolute;
-    top:85px ;
+    top:0px;
     right: 0;
     text-align: right;
 }
@@ -174,7 +174,7 @@ ul{
    background-color: #027BFF;
    height: 3px;
    width: 61px;
-   margin-top: 5px;
+   margin-top: 0px;
    float: right;
 
 }
@@ -199,6 +199,8 @@ ul{
 }
 .work2 h1{
 color: rgb(48, 50, 51);
+
+
 }
 /*      work on 1 */
 .work3{
