@@ -240,3 +240,24 @@ color: rgb(48, 50, 51);
     text-decoration: none;
     color: black;
 } 
+/* ...footer... */
+.footer{
+    background-image: url(images/Dribbble_Blue_Large.png);
+    background-repeat: no-repeat;
+    background-position: right-top;
+    background-size: 320px; 
+    padding-bottom: 7em;
+    text-align: center;}
+    .footer a{
+        color: #027bff;
+        text-decoration: none;
+ 
+    }
+ .underlinesmall{
+       display: block;
+       height: 3px;
+       width:41px;
+       margin: 5px auto 0 auto;
+       background-color:#027bff;
+    }
+ 
